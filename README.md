@@ -243,9 +243,6 @@ knio.output_tables[0] = knio.Table.from_pandas(df)
 
 ---
 
-> 📷 **[INSERTAR IMAGEN — Gráfica 1: Top 10 artistas por seguidores]**
-
----
 
 ### 📊 Gráfica 2 — Bar Chart #67
 **Título:** *"Impacto del Número de Track"*  
@@ -255,9 +252,6 @@ knio.output_tables[0] = knio.Table.from_pandas(df)
 
 ---
 
-> 📷 **[INSERTAR IMAGEN — Gráfica 2: Impacto del número de track]**
-
----
 
 ### 📊 Gráfica 3 — Bar Chart #70
 **Título:** *"Quién hace las canciones más largas"*  
@@ -267,9 +261,6 @@ knio.output_tables[0] = knio.Table.from_pandas(df)
 
 ---
 
-> 📷 **[INSERTAR IMAGEN — Gráfica 3: Artistas con canciones más largas]**
-
----
 
 ### 📊 Gráfica 4 — Bar Chart #76
 **Título:** *"Popularidad promedio por sentimiento del título"*  
@@ -279,9 +270,6 @@ knio.output_tables[0] = knio.Table.from_pandas(df)
 
 ---
 
-> 📷 **[]**
-
----
 
 ### 📈 Gráfica 5 — Line Plot #62
 **Título:** *"Lanzamientos populares por año"*  
@@ -291,9 +279,6 @@ knio.output_tables[0] = knio.Table.from_pandas(df)
 
 ---
 
-> 📷 **[INSERTAR IMAGEN — Gráfica 5: Lanzamientos populares por año]**
-
----
 
 ### 🔵 Gráfica 6 — Scatter Plot #63
 **Título:** *"¿Las canciones más populares suelen ser las más cortas?"*  
@@ -303,9 +288,6 @@ knio.output_tables[0] = knio.Table.from_pandas(df)
 
 ---
 
-> 📷 **[INSERTAR IMAGEN — Gráfica 6: Duración vs popularidad]**
-
----
 
 ### 🔵 Gráfica 7 — Scatter Plot #65
 **Título:** *"Canciones muy populares pero pertenecen a artistas con baja popularidad"*  
@@ -315,9 +297,6 @@ knio.output_tables[0] = knio.Table.from_pandas(df)
 
 ---
 
-> 📷 **[INSERTAR IMAGEN — Gráfica 7: Popularidad de canción vs artista]**
-
----
 
 ### 📋 Gráfica 8 — Statistics View #64
 **Tipo:** Vista de estadísticas descriptivas  
@@ -325,9 +304,6 @@ knio.output_tables[0] = knio.Table.from_pandas(df)
 
 ---
 
-> 📷 **[INSERTAR IMAGEN — Gráfica 8: Statistics View]**
-
----
 
 ## 6. Hallazgos y Conclusiones
 
