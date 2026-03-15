@@ -1,4 +1,4 @@
-# Documentación del Proyecto Final de Análisis de Datos
+# Documentación  Final de Análisis de Datos
 ## Análisis Exploratorio del Comportamiento Musical en Spotify
 
 **Herramienta utilizada:** KNIME Analytics Platform v5.11.0  
@@ -279,7 +279,7 @@ knio.output_tables[0] = knio.Table.from_pandas(df)
 
 ---
 
-> 📷 **[INSERTAR IMAGEN — Gráfica 4: Popularidad por sentimiento del título]**
+> 📷 **[]**
 
 ---
 
